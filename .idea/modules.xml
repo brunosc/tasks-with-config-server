@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/config-server/config-server-scheduling-task-test.iml" filepath="$PROJECT_DIR$/config-server/config-server-scheduling-task-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scheduling-task-test/scheduling-task-test.iml" filepath="$PROJECT_DIR$/scheduling-task-test/scheduling-task-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tasks-with-config-server.iml" filepath="$PROJECT_DIR$/tasks-with-config-server.iml" />
+    </modules>
+  </component>
+</project>

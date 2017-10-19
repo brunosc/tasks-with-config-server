@@ -1,0 +1,4 @@
+app:
+  config:
+    cron: 0 */1 * * * *
+    message: Oss
